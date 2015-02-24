@@ -1,0 +1,7 @@
+alias:
+  root: # User which will have the alias
+    vim: 'vi' # Aliases...
+    ll: ls -l
+    la: "ls -la"
+  user2:
+    alias2: 'command2'
